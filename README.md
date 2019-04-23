@@ -13,3 +13,6 @@ Main libraries used in this app are -
 This app is mainly built for the tabular PDF files and one can make changes to the class PdfObject present in the PdfObject.py file to customize it for their own needs.
 
 ![Screenshot](https://github.com/kartikeyas00/PDF2EXCEL/blob/master/screenshots/Screenshot_app2.PNG)
+
+## License
+See the [LICENSE](https://github.com/kartikeyas00/PDF2EXCEL/blob/master/LICENSE) file for license rights and limitations (MIT).
